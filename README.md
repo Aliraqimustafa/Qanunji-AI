@@ -4,8 +4,7 @@ Welcome to Qanunji-AI, a repository where I present the source code and complete
 
 I utilized the flet library, which offers a straightforward interface for creating Flutter applications using Python. Additionally, I incorporated the Google API GooglePalmEmbeddings to enhance the functionality. Below, you'll find a video demonstrating how this code operates. 🎥
 
-![Watch the Video](YOUR_VIDEO_LINK_HERE)
-
+[![Watch the video]()](https://github.com/Aliraqimustafa/Qanunji-AI/blob/main/iraq_2023.mp4)
 ---
 
 Feel free to explore the codebase and delve into the world of legal AI. 🚀
