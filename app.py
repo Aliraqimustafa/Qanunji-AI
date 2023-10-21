@@ -6,7 +6,7 @@ from langchain.chains import LLMChain ,SimpleSequentialChain
 from langchain.embeddings import GooglePalmEmbeddings
 from langchain.vectorstores import FAISS
 
-embeddings = GooglePalmEmbeddings(google_api_key  = 'AIzaSyAUcyULNV5bARTN2KM9SLP3MWrz1jKJx3Q')
+embeddings = GooglePalmEmbeddings(google_api_key  = 'YOUR_GOOGLE_API')
 llm = OpenAI()
 
 storage = FAISS.load_local('FAISS_DB',embeddings=embeddings)
